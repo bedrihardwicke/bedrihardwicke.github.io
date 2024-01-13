@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Bedri's Wepage</title>
-</head>
-<body>
-<img src="Chicken, Unknown Author.jpg" alt="Chicken JPG">
-</body>
+    <head>
+        <title>Webpage 01</title>
+    </head>
+    <body>
+        <h1>Bedri Hardwicke</h1>
+        <p>Welcome to my page.</p>
+        <button><a href="https://www.youtube.com/watch?v=qz0aGYrrlhU">How to HTML</a></button>
+    </body>
 </html>
