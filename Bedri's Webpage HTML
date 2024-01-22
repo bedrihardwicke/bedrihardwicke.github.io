@@ -4,9 +4,5 @@
         <title>Bedri's Page</title>
     </head>
     <body>
-        <img src="Chicken, Unknown Author.jpg" alt="Chicken Image">
-        <h1>Bedri Hardwicke</h1>
-        <p>Welcome to my page.</p>
-        <button><a href="https://www.youtube.com/watch?v=qz0aGYrrlhU">How to HTML</a></button>
     </body>
 </html>
